@@ -12,7 +12,6 @@ Ainda nessa activity, existem três ImageView's em sua região superior e nelas 
 Na activity de entrada é possível entrar com o nome, que será armazenado e apresentado na activity seguinte como saudação. A partir do momento que o aplicativo é iniciado a primeira vez, o nome será salvo e não mais será necessário indica-lo novamente.
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/110063157/182272821-19c65eda-7de9-44ed-8498-862d4c2ac8f6.gif)
-asdasdasd
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
